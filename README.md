@@ -1,3 +1,7 @@
+# Editable Todo List
+
+Simple React Todo list, uses ReactJs & JavaScript to store Todos locally. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
